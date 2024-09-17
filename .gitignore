@@ -1,0 +1,9 @@
+# my analysis log files
+*.log
+
+# the results file from my model
+results.csv
+
+# my results directory
+results/
+
